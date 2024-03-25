@@ -1,0 +1,3 @@
+C:/Users/26702/CLionProjects/xi_an_you_dian_daxue_DS/cmake-build-debug/CMakeFiles/xi_an_you_dian_daxue_DS.dir
+C:/Users/26702/CLionProjects/xi_an_you_dian_daxue_DS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/26702/CLionProjects/xi_an_you_dian_daxue_DS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
